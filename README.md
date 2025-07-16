@@ -1,8 +1,17 @@
-Form Validation :
- A registration form buitld with html, css , and javascript.
-The form is able to validate user input  and ensures the right kind of data is provided
+# 📝 Form Validation
 
-&
+A user registration form built with **HTML**, **CSS**, and **JavaScript**, designed to validate user input and ensure the correct data is submitted.
 
-Fetch User Data Application:
-This project demonstrates how to fetch data from an API asynchronously and display it on a webpage. It uses the fetch API and async/await syntax to handle asynchronous operations and manage potential errors.
+## 🔍 Features
+
+- Validates form fields before submission
+- Ensures correct data formats (e.g., email, password strength, required fields)
+- Displays helpful error messages to guide user input
+- Prevents form submission when validation fails
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript (Vanilla)
+
